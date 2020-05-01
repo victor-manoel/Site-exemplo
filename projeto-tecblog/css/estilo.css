@@ -31,7 +31,7 @@ a{
 	text-decoration: none;
 }
 a:link, a:visited{
-	color: #FFF;
+	color: black;
 	padding: 8px 12px;
 }
 a:hover{
