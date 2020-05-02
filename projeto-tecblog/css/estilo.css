@@ -45,6 +45,13 @@ body{
 	float: right;
 }
 
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+}
+
 /* 
 **** Formatações do menu ****
 */
