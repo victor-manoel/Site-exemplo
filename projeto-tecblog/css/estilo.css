@@ -24,6 +24,27 @@ body{
 	padding: 10px;
 }
 
+#area-principal{
+	background: white;
+	width: 920px;
+	margin: 0 auto;
+}
+
+#area-postagens, #area-lateral{
+	background: orange;
+}
+
+
+#area-postagens{
+	width: 660px;
+	float: left;
+}
+
+#area-lateral{
+	width: 240px;
+	float: right;
+}
+
 /* 
 **** Formatações do menu ****
 */
